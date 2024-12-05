@@ -1,0 +1,1 @@
+python3 queryreportaccess.py --host 10.10.100.10 --user Administrator@vsphere.local
